@@ -9,9 +9,7 @@
 sudo apt update
 sudo apt install openjdk-17-jdk-headless -y
 ```
-### Перейдите в папку "Рабочий стол"
-
-# Скачайте репозиторий (замените URL на ваш)
+# Скачать репозиторий 
 
 ```bash
 git clone https://https://github.com/Beda3113/Netology-Course-Android-Development
