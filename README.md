@@ -23,7 +23,19 @@ cd Netology-Course-Android-Development
 ```bash
 javac M1HW1.java
 ```
+### Запуск первого задания
+
+```bash
+java M1HW1
+```
+
 ### Компиляция второго задания
 ```bash
 javac M1HW2.java
+```
+
+### Запуск второго задания
+
+```bash
+java M1HW2
 ```
