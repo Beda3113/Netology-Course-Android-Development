@@ -20,9 +20,9 @@ git clone https://https://github.com/Beda3113/Netology-Course-Android-Developmen
 cd Netology-Course-Android-Development
 ```
 
-### Компиляция первого задания
+### Компиляция
 ```bash
-javac Main.java
+javac Book.java Main.java
 ```
 ### Запуск первого задания
 
