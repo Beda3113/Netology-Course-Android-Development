@@ -22,7 +22,7 @@ cd Netology-Course-Android-Development
 
 ### Компиляция
 ```bash
-javac Book.java Main.java
+javac Main.java
 ```
 ### Запуск первого задания
 
